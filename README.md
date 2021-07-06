@@ -2,11 +2,13 @@
 
 I used two projects to do this project
 
-. Project #1 is https://github.com/medsriha/Real-Time-Face-Recognition 
-  </br>  This project for take photo and training
+- Project #1 is [Real-Time-Face-Recognition by medsriha](https://github.com/medsriha/Real-Time-Face-Recognition) :
+  </br>  
+  This project for take photo and training
   
-. Project #2 is https://github.com/rkshiyaniya/Real-Time-Face-Recognition
-  </br>  This project for recognition, because the first project has issue in recognition.
+- Project #2 is [Real-Time-Face-Recognition by rkshiyaniya](https://github.com/rkshiyaniya/Real-Time-Face-Recognition) :
+  </br>  
+  This project for recognition, because the first project has issue in recognition.
   
 ## Steps:
 
