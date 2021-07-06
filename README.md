@@ -18,7 +18,7 @@ I used two projects to do this project
 
 3- `cmd: python main.py`
 
-Requirements:
+## Requirements:
   
 - `conda update conda`
 - `conda update anaconda`
@@ -30,5 +30,5 @@ Requirements:
 - `pip install face-recognition`
 - `pip install -r requirements.txt`
 
-Demo:
+## Demo:
 <img src = 'Demo.gif'>
