@@ -3,9 +3,10 @@
 I used two projects to do this project
 
 . Project #1 is https://github.com/medsriha/Real-Time-Face-Recognition 
-  This project for take photo and training
+  </br> This project for take photo and training
+  
 . Project #2 is https://github.com/rkshiyaniya/Real-Time-Face-Recognition
-  This project for recognition, because the first project has issue in recognition.
+  </br> This project for recognition, because the first project has issue in recognition.
   
 ## Steps:
 
