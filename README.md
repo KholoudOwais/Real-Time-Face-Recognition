@@ -26,7 +26,7 @@ I used two projects to do this project
 - `conda activate env_dlib`
 - `conda install -c conda-forge dlib`
 - `pip install opencv-python`
-- `pip install opencv-contrib-python --upgrade` or `pip install opencv-contrib-python --user`
+- `pip3 install opencv-contrib-python`
 - `pip install face-recognition`
 - `pip install -r requirements.txt`
 
