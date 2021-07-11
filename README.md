@@ -17,7 +17,7 @@ I used two projects to do this project
 2- `cmd: python face_train.py`
 
 3- `cmd: python main.py`
-
+```
 ## Requirements:
   
 - `conda update conda`
@@ -29,6 +29,6 @@ I used two projects to do this project
 - `pip3 install opencv-contrib-python`
 - `pip install face-recognition`
 -  `pip install -r requirements.txt`
-
+```
 ## Demo:
 <img src = 'Demo.gif'>
