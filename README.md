@@ -27,8 +27,8 @@ I used two projects to do this project
 - `conda install -c conda-forge dlib`
 - `pip install opencv-python`
 - `pip3 install opencv-contrib-python`
-- `pip install face-recognition
--  pip install -r requirements.txt`
+- `pip install face-recognition`
+-  `pip install -r requirements.txt`
 
 ## Demo:
 <img src = 'Demo.gif'>
